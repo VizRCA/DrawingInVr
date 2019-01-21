@@ -1,0 +1,66 @@
+
+newmtl Standard727272
+Kd  0.4470588 0.4470588 0.4470588
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl Standard7B7FFF
+Kd  0.48235296 0.4980392 01
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl StandardF921ED
+Kd  0.9764706 0.12941176 0.9294118
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl Standard0000FF
+Kd  00 00 01
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl Standard8EFF9E
+Kd  0.5568628 01 0.6196079
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl Standard5CFF43
+Kd  0.3607843 01 0.26274512
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+

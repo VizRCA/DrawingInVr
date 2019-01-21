@@ -1,0 +1,2219 @@
+{
+	"asset": {
+		"generator": "Tilt Brush 15.2.4484bbdd5",
+		"version": "1.1",
+		"copyright": "Unknown."
+	},
+	"buffers": {
+		"sketch": {
+			"byteLength": 100245380,
+			"type": "arraybuffer",
+			"uri": "sketch.bin"
+		}
+	},
+	"accessors": {
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 0,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64077,
+			"max": [ -2.849118, 8.910946, 3.970529 ],
+			"min": [ -2.981043, 8.730802, 3.843245 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 768924,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64077,
+			"max": [ 1.000003, 1.000005, 0.999983 ],
+			"min": [ -1.000003, -1.000005, -0.999983 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 0,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64077,
+			"max": [ 0.8352941, 0.9490196, 0.7372549, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1025232,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64077,
+			"max": [ 0.999815, 0.9997161, 0.9997948, 1 ],
+			"min": [ -0.999972, -0.9989383, -0.9996391, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 0,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64077,
+			"max": [ 73.14175, 1 ],
+			"min": [ -0.02787507, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 0,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 337392,
+			"max": [ 64076 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1537848,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64298,
+			"max": [ -2.83025, 8.905962, 3.971522 ],
+			"min": [ -2.97911, 8.716723, 3.844005 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2309424,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64298,
+			"max": [ 0.9999098, 0.9999183, 0.9999914 ],
+			"min": [ -0.9999098, -0.9999685, -0.9999914 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 2050464,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64298,
+			"max": [ 0.8352941, 0.9490196, 0.7372549, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 3079232,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64298,
+			"max": [ 0.9987988, 0.9998864, 0.9999925, 1 ],
+			"min": [ -0.9993717, -0.9999715, -0.9999924, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 512616,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64298,
+			"max": [ 45.64086, 1 ],
+			"min": [ -0.02616737, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 674784,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 331488,
+			"max": [ 64297 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 3081000,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64806,
+			"max": [ -2.848072, 8.879346, 3.966645 ],
+			"min": [ -2.962042, 8.711448, 3.840076 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 3858672,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64806,
+			"max": [ 0.9999998, 0.9999611, 0.9999409 ],
+			"min": [ -0.9999998, -0.9999611, -0.999941 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 4108000,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64806,
+			"max": [ 0.8352941, 0.9490196, 0.7372549, 1 ],
+			"min": [ 0, 0, 0, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 5144896,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64806,
+			"max": [ 0.9996416, 0.9998369, 0.9999709, 1 ],
+			"min": [ -0.9996417, -0.9999714, -0.9999709, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 1027000,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64806,
+			"max": [ 29.57371, 1 ],
+			"min": [ -0.01046949, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 1337760,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 333600,
+			"max": [ 64805 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 4636344,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 62089,
+			"max": [ 3.461724, 8.907252, 7.089077 ],
+			"min": [ -2.95091, 4.775716, 3.846088 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 5381412,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 62089,
+			"max": [ 0.9999697, 0.9999761, 0.9999231 ],
+			"min": [ -0.9999697, -0.9999761, -0.9999231 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 6181792,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 62089,
+			"max": [ 0.8352941, 0.9490196, 0.7372549, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.09411765, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 7175216,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 62089,
+			"max": [ 0.9986113, 0.999998, 0.9995239, 1 ],
+			"min": [ -0.9988811, -0.9999979, -0.9998351, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 1545448,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 62089,
+			"max": [ 46.80219, 1 ],
+			"min": [ -0.009495137, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 2004960,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 318000,
+			"max": [ 62088 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 6126480,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64154,
+			"max": [ 1.500352, 7.01535, 5.930428 ],
+			"min": [ -0.281668, 5.399356, 4.298328 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 6896328,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64154,
+			"max": [ 0.9999067, 0.9997892, 0.9999448 ],
+			"min": [ -0.9999067, -0.9997892, -0.9999448 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 8168640,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64154,
+			"max": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 9195104,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64154,
+			"max": [ 0.9999751, 0.9994997, 0.9998872, 1 ],
+			"min": [ -0.9995021, -0.9998773, -0.9999301, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 2042160,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64154,
+			"max": [ 47.17974, 1 ],
+			"min": [ -0.02694516, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 2640960,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 338400,
+			"max": [ 64153 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 7666176,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65183,
+			"max": [ 2.708211, 7.924154, 7.658462 ],
+			"min": [ -0.4882369, 5.430366, 4.574828 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 8448372,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65183,
+			"max": [ 1.000006, 0.9999673, 0.9999831 ],
+			"min": [ -1.000006, -0.9999673, -0.9999831 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 10221568,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65183,
+			"max": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 11264496,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65183,
+			"max": [ 0.9997622, 0.9999498, 1.000003, 1 ],
+			"min": [ -0.9993267, -0.9998965, -0.9998794, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 2555392,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65183,
+			"max": [ 20.99136, 1 ],
+			"min": [ -0.0002131032, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 3317760,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 340560,
+			"max": [ 65182 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 9230568,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64273,
+			"max": [ 3.592944, 7.852418, 7.938695 ],
+			"min": [ -1.015731, 5.021418, 3.401539 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 10001844,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64273,
+			"max": [ 0.9998989, 0.9999998, 0.9999887 ],
+			"min": [ -0.9998989, -0.9999998, -0.9999887 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 12307424,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64273,
+			"max": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 13335792,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64273,
+			"max": [ 0.9996761, 0.9998809, 0.9999636, 1 ],
+			"min": [ -0.9996074, -0.9999952, -0.9998909, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 3076856,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64273,
+			"max": [ 48.34822, 1 ],
+			"min": [ -0.0253462, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 3998880,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 339120,
+			"max": [ 64272 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 10773120,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64754,
+			"max": [ 3.427318, 7.957131, 7.943039 ],
+			"min": [ -0.9401828, 4.751697, 3.484166 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 11550168,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64754,
+			"max": [ 0.9999865, 0.9999691, 0.9999837 ],
+			"min": [ -0.9999865, -0.9999691, -0.9999837 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 14364160,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64754,
+			"max": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 15400224,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64754,
+			"max": [ 0.999925, 0.9999727, 0.9996554, 1 ],
+			"min": [ -0.9995791, -0.9998618, -0.9999633, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 3591040,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64754,
+			"max": [ 27.13228, 1 ],
+			"min": [ -0.02967216, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 4677120,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 339552,
+			"max": [ 64753 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 12327216,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65234,
+			"max": [ 3.719725, 7.246248, 7.8773 ],
+			"min": [ 0.6507472, 4.467069, 3.197483 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 13110024,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65234,
+			"max": [ 0.9999698, 1.000006, 0.9999876 ],
+			"min": [ -0.9999698, -1.000006, -0.9999876 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 16436288,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65234,
+			"max": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.9490196, 0.4823529, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 17480032,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65234,
+			"max": [ 0.9979603, 0.9997084, 0.9980221, 1 ],
+			"min": [ -0.9980768, -0.9999145, -0.9969149, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 4109072,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65234,
+			"max": [ 33.44217, 1 ],
+			"min": [ -0.01979323, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 5356224,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 341088,
+			"max": [ 65233 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 13892832,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65391,
+			"max": [ 3.506682, 7.252645, 7.75779 ],
+			"min": [ -0.4412118, 4.091217, 3.444454 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 14677524,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65391,
+			"max": [ 0.9999876, 0.9999708, 0.9999844 ],
+			"min": [ -0.9999876, -0.9999708, -0.9999843 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 18523776,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65391,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 19570032,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65391,
+			"max": [ 0.9994217, 0.9999967, 0.9979669, 1 ],
+			"min": [ -0.9996499, -0.9999951, -0.9999525, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 4630944,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65391,
+			"max": [ 18.48013, 1 ],
+			"min": [ -0.02747258, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 6038400,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 338256,
+			"max": [ 65390 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 15462216,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65045,
+			"max": [ 2.392674, 8.308734, 7.901368 ],
+			"min": [ -1.01267, 4.835389, 3.581349 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 16242756,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65045,
+			"max": [ 0.9999728, 1.000021, 0.9999995 ],
+			"min": [ -0.9999728, -1.000021, -0.9999995 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 20616288,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65045,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 21657008,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65045,
+			"max": [ 0.9997658, 0.9999376, 0.9990955, 1 ],
+			"min": [ -0.9986389, -0.9999895, -0.998385, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 5154072,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65045,
+			"max": [ 67.33073, 1 ],
+			"min": [ -0.03047412, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 6714912,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 335472,
+			"max": [ 65044 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 17023296,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64573,
+			"max": [ 3.730632, 7.314677, 8.116355 ],
+			"min": [ -0.9913548, 4.114259, 4.775403 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 17798172,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64573,
+			"max": [ 0.9998802, 0.9999989, 0.9999996 ],
+			"min": [ -0.9998802, -0.999997, -0.9999995 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 22697728,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64573,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 23730896,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64573,
+			"max": [ 0.9982142, 1, 0.9994649, 1 ],
+			"min": [ -0.9982142, -0.9999681, -0.9994649, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 5674432,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64573,
+			"max": [ 26.05311, 1 ],
+			"min": [ -0.01498238, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 7385856,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 334320,
+			"max": [ 64572 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 18573048,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65085,
+			"max": [ 4.48376, 8.590401, 8.038929 ],
+			"min": [ -0.4340602, 4.748853, 3.429131 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 19354068,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65085,
+			"max": [ 0.9999477, 0.9999984, 0.9999909 ],
+			"min": [ -0.9999477, -0.9999983, -0.9999909 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 24764064,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65085,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 25805424,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65085,
+			"max": [ 0.9996904, 0.9999683, 0.9997984, 1 ],
+			"min": [ -0.9996905, -0.9999986, -0.999919, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 6191016,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65085,
+			"max": [ 16.14408, 1 ],
+			"min": [ 0.01466621, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 8054496,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 335088,
+			"max": [ 65084 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 20135088,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65389,
+			"max": [ 3.557315, 7.22128, 7.773022 ],
+			"min": [ -1.186934, 4.917379, 3.288998 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 20919756,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65389,
+			"max": [ 0.9999187, 0.999979, 0.9998612 ],
+			"min": [ -0.9999187, -0.999979, -0.9998612 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 26846784,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65389,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 27893008,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65389,
+			"max": [ 0.9987133, 0.9994991, 0.999868, 1 ],
+			"min": [ -0.9999962, -0.9994991, -0.9998681, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 6711696,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65389,
+			"max": [ 45.24774, 1 ],
+			"min": [ -0.0228521, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 8724672,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 332784,
+			"max": [ 65388 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 21704424,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65322,
+			"max": [ 3.510649, 7.902168, 7.830428 ],
+			"min": [ -0.3604293, 4.72602, 4.26567 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 22488288,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65322,
+			"max": [ 0.999916, 0.999942, 1.000002 ],
+			"min": [ -0.999916, -0.999942, -1.000002 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 28939232,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65322,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 29984384,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65322,
+			"max": [ 0.9999226, 0.9998916, 0.9993643, 1 ],
+			"min": [ -0.9999708, -0.9999525, -0.9981514, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 7234808,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65322,
+			"max": [ 11.94807, 1 ],
+			"min": [ -0.02641671, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 9390240,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 336096,
+			"max": [ 65321 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 23272152,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65378,
+			"max": [ 3.680795, 7.902567, 7.465908 ],
+			"min": [ -0.4646463, 4.136058, 4.666221 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 24056688,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65378,
+			"max": [ 0.999997, 0.9999973, 0.9999359 ],
+			"min": [ -0.999997, -0.9999973, -0.9999359 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 31029536,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65378,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 32075584,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65378,
+			"max": [ 0.9995062, 0.9998927, 0.9999273, 1 ],
+			"min": [ -0.9995062, -0.999932, -0.9999273, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 7757384,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65378,
+			"max": [ 16.66298, 1 ],
+			"min": [ -0.03016961, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 10062432,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 335712,
+			"max": [ 65377 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 24841224,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 63010,
+			"max": [ 3.149871, 8.235735, 7.885946 ],
+			"min": [ -0.9814033, 5.292349, 3.90877 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 25597344,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 63010,
+			"max": [ 0.9999974, 0.9999958, 0.9999991 ],
+			"min": [ -0.9999973, -0.9999958, -0.9999991 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 33121632,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 63010,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 34129792,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 63010,
+			"max": [ 0.9999222, 0.9998283, 0.9990011, 1 ],
+			"min": [ -0.9998148, -1.000006, -0.999997, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 8280408,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 63010,
+			"max": [ 44.82748, 1 ],
+			"min": [ -0.01901602, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 10733856,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 328032,
+			"max": [ 63009 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 26353464,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65142,
+			"max": [ 4.479953, 8.502252, 7.412354 ],
+			"min": [ 1.531275, 5.683865, 3.736176 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 27135168,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65142,
+			"max": [ 0.9999198, 0.9997321, 0.9998958 ],
+			"min": [ -0.9999198, -0.9997321, -0.9998958 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 35137952,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65142,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 36180224,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65142,
+			"max": [ 0.9999179, 0.9999734, 0.9997106, 1 ],
+			"min": [ -0.999896, -0.9999837, -0.9996334, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 8784488,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65142,
+			"max": [ 27.21505, 1 ],
+			"min": [ -0.01263751, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 11389920,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 344352,
+			"max": [ 65141 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 27916872,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65533,
+			"max": [ 4.46304, 8.411979, 7.769508 ],
+			"min": [ -0.2538846, 4.189491, 4.092077 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 28703268,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65533,
+			"max": [ 0.999979, 0.9999887, 1.000002 ],
+			"min": [ -0.999979, -0.9999888, -1.000002 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 37222496,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65533,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 38271024,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65533,
+			"max": [ 0.9999219, 0.9999442, 0.9998958, 1 ],
+			"min": [ -0.9999219, -0.9999332, -0.9999583, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 9305624,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65533,
+			"max": [ 25.56726, 1 ],
+			"min": [ -0.02601337, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 12078624,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 331248,
+			"max": [ 65532 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 29489664,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65035,
+			"max": [ 3.75242, 7.123708, 6.382123 ],
+			"min": [ -0.258651, 4.236423, 3.365588 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 30270084,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65035,
+			"max": [ 0.9999896, 1.000008, 0.9999723 ],
+			"min": [ -0.9999896, -1.000008, -0.9999723 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 39319552,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65035,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 40360112,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65035,
+			"max": [ 0.9992632, 0.999974, 0.9998258, 1 ],
+			"min": [ -0.9992632, -0.9999988, -0.9991867, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 9829888,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65035,
+			"max": [ 13.95093, 1 ],
+			"min": [ -0.01626686, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 12741120,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 335184,
+			"max": [ 65034 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 31050504,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 48563,
+			"max": [ 3.005981, 8.316855, 6.953852 ],
+			"min": [ -0.1721188, 5.93186, 4.187327 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 31633260,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 48563,
+			"max": [ 0.9999645, 0.9999942, 0.9999861 ],
+			"min": [ -0.9999645, -0.9999942, -0.9999861 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 41400672,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 48563,
+			"max": [ 0.08627451, 0.9490196, 0.4823529, 1 ],
+			"min": [ 0.08235294, 0.02352941, 0.1529412, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 42177680,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 48563,
+			"max": [ 0.9995918, 0.9999828, 0.9999691, 1 ],
+			"min": [ -0.9994645, -0.9999828, -0.9999691, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 10350168,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 48563,
+			"max": [ 27.90847, 1 ],
+			"min": [ -0.02795292, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 13411488,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 253368,
+			"max": [ 48562 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 32216016,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 6330,
+			"max": [ 3.207294, 6.103901, 8.128476 ],
+			"min": [ -1.002284, 4.154901, 4.922825 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 32291976,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 6330,
+			"max": [ 0.9955112, 0.9967927, 0.9998426 ],
+			"min": [ -0.9999576, -0.9999147, -0.9996653 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 42954688,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 6330,
+			"max": [ 0.08627451, 0.02352941, 0.1529412, 1 ],
+			"min": [ 0.08627451, 0.02352941, 0.1529412, 0 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 43055968,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 6330,
+			"max": [ 0.9968709, 0.9999665, 0.9987677, 1 ],
+			"min": [ -0.9902375, -0.9998921, -0.9937403, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 10738672,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 6330,
+			"max": [ 4.185271, 1 ],
+			"min": [ 0.0009659138, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_indices_0_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 13918224,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 6330,
+			"max": [ 6329 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 }
+	},
+	"bufferViews": {
+		"ushortBufferView": {
+			"buffer": "sketch",
+			"byteLength": 13930884,
+			"byteOffset": 0,
+			"target": 34963
+		},
+		"vec2BufferView": {
+			"buffer": "sketch",
+			"byteLength": 10789312,
+			"byteOffset": 13930884,
+			"target": 34962
+		},
+		"vec3BufferView": {
+			"buffer": "sketch",
+			"byteLength": 32367936,
+			"byteOffset": 24720196,
+			"target": 34962
+		},
+		"vec4BufferView": {
+			"buffer": "sketch",
+			"byteLength": 43157248,
+			"byteOffset": 57088132,
+			"target": 34962
+		}
+	},
+	"meshes": {
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"name": "mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+						"NORMAL": "accessor_normal_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+						"COLOR": "accessor_color_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+						"TANGENT": "accessor_tangent_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+						"TEXCOORD_0": "accessor_uv0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20"
+					},
+					"indices": "accessor_indices_0_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+					"material": "material_4391385a-cf83-4396-9e33-31e4e4930b27",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"name": "mesh_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+						"NORMAL": "accessor_normal_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+						"COLOR": "accessor_color_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+						"TANGENT": "accessor_tangent_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+						"TEXCOORD_0": "accessor_uv0_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0"
+					},
+					"indices": "accessor_indices_0_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+					"material": "material_429ed64a-4e97-4466-84d3-145a861ef684",
+					"mode": 4
+				}
+			]
+		}
+	},
+	"shaders": {
+		"vertex_4391385a-cf83-4396-9e33-31e4e4930b27": {
+			"type": 35633,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/Wire-4391385a-cf83-4396-9e33-31e4e4930b27/Wire-4391385a-cf83-4396-9e33-31e4e4930b27-v10.0-vertex.glsl"
+		},
+		"fragment_4391385a-cf83-4396-9e33-31e4e4930b27": {
+			"type": 35632,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/Wire-4391385a-cf83-4396-9e33-31e4e4930b27/Wire-4391385a-cf83-4396-9e33-31e4e4930b27-v10.0-fragment.glsl"
+		},
+		"vertex_429ed64a-4e97-4466-84d3-145a861ef684": {
+			"type": 35633,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/Marker-429ed64a-4e97-4466-84d3-145a861ef684/Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-vertex.glsl"
+		},
+		"fragment_429ed64a-4e97-4466-84d3-145a861ef684": {
+			"type": 35632,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/Marker-429ed64a-4e97-4466-84d3-145a861ef684/Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-fragment.glsl"
+		}
+	},
+	"programs": {
+		"program_4391385a-cf83-4396-9e33-31e4e4930b27": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color",
+				"a_tangent",
+				"a_texcoord0"				
+			],
+			"vertexShader": "vertex_4391385a-cf83-4396-9e33-31e4e4930b27",
+			"fragmentShader": "fragment_4391385a-cf83-4396-9e33-31e4e4930b27"
+		},
+		"program_429ed64a-4e97-4466-84d3-145a861ef684": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color",
+				"a_tangent",
+				"a_texcoord0"				
+			],
+			"vertexShader": "vertex_429ed64a-4e97-4466-84d3-145a861ef684",
+			"fragmentShader": "fragment_429ed64a-4e97-4466-84d3-145a861ef684"
+		}
+	},
+	"techniques": {
+		"technique_4391385a-cf83-4396-9e33-31e4e4930b27": {
+			"program": "program_4391385a-cf83-4396-9e33-31e4e4930b27",
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"tangent": {
+					"type": 35666,
+					"semantic": "TANGENT"
+				},
+				"texcoord0": {
+					"type": 35664,
+					"semantic": "TEXCOORD_0"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"SceneLight_0_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_0_-914"
+				},
+				"SceneLight_0_color": {
+					"type": 35666,
+					"node": "node_SceneLight_0_-914"
+				},
+				"SceneLight_1_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_1_-920"
+				},
+				"SceneLight_1_color": {
+					"type": 35666,
+					"node": "node_SceneLight_1_-920"
+				},
+				"ambient_light_color": {
+					"type": 35666
+				},
+				"Cutoff": {
+					"type": 5126
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color",
+				"a_tangent": "tangent",
+				"a_texcoord0": "texcoord0"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_SceneLight_0_matrix": "SceneLight_0_matrix",
+				"u_SceneLight_0_color": "SceneLight_0_color",
+				"u_SceneLight_1_matrix": "SceneLight_1_matrix",
+				"u_SceneLight_1_color": "SceneLight_1_color",
+				"u_ambient_light_color": "ambient_light_color",
+				"u_Cutoff": "Cutoff"				
+			},
+			"states": {
+				"enable": [
+					2929
+				],
+				"functions": {
+					"depthMask": [true]
+				}
+			}
+		},
+		"technique_429ed64a-4e97-4466-84d3-145a861ef684": {
+			"program": "program_429ed64a-4e97-4466-84d3-145a861ef684",
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"tangent": {
+					"type": 35666,
+					"semantic": "TANGENT"
+				},
+				"texcoord0": {
+					"type": 35664,
+					"semantic": "TEXCOORD_0"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"SceneLight_0_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_0_-914"
+				},
+				"SceneLight_0_color": {
+					"type": 35666,
+					"node": "node_SceneLight_0_-914"
+				},
+				"SceneLight_1_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_1_-920"
+				},
+				"SceneLight_1_color": {
+					"type": 35666,
+					"node": "node_SceneLight_1_-920"
+				},
+				"ambient_light_color": {
+					"type": 35666
+				},
+				"Cutoff": {
+					"type": 5126
+				},
+				"MainTex_TexelSize": {
+					"type": 35666
+				},
+				"MainTex": {
+					"type": 35678
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color",
+				"a_tangent": "tangent",
+				"a_texcoord0": "texcoord0"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_SceneLight_0_matrix": "SceneLight_0_matrix",
+				"u_SceneLight_0_color": "SceneLight_0_color",
+				"u_SceneLight_1_matrix": "SceneLight_1_matrix",
+				"u_SceneLight_1_color": "SceneLight_1_color",
+				"u_ambient_light_color": "ambient_light_color",
+				"u_Cutoff": "Cutoff",
+				"u_MainTex_TexelSize": "MainTex_TexelSize",
+				"u_MainTex": "MainTex"				
+			},
+			"states": {
+				"enable": [
+					2929
+				],
+				"functions": {
+					"depthMask": [true]
+				}
+			}
+		}
+	},
+	"samplers": {
+		"sampler_LINEAR_LINEAR_REPEAT": {
+			"magFilter": 9729,
+			"minFilter": 9987,
+			"wrapS": 10497,
+			"wrapT": 10497
+		}
+	},
+	"textures": {
+		"texture_429ed64a-4e97-4466-84d3-145a861ef684_MainTex": {
+			"format": 6408,
+			"internalFormat": 6408,
+			"sampler": "sampler_LINEAR_LINEAR_REPEAT",
+			"source": "image_429ed64a-4e97-4466-84d3-145a861ef684_MainTex",
+			"target": 3553,
+			"type": 5121
+		}
+	},
+	"images": {
+		"image_429ed64a-4e97-4466-84d3-145a861ef684_MainTex": {
+			"uri": "https://www.tiltbrush.com/shaders/brushes/Marker-429ed64a-4e97-4466-84d3-145a861ef684/Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-MainTex.png"
+		}
+	},
+	"materials": {
+		"material_4391385a-cf83-4396-9e33-31e4e4930b27": {
+			"technique": "technique_4391385a-cf83-4396-9e33-31e4e4930b27",
+			"values": {
+				"SceneLight_0_color": [0.7780392, 0.8156863, 0.9913726, 1],
+				"SceneLight_1_color": [0.4282353, 0.4211765, 0.3458824, 1],
+				"ambient_light_color": [0.3921569, 0.3921569, 0.3921569, 1],
+				"Cutoff": 0.067				
+			},
+			"name": "material_4391385a-cf83-4396-9e33-31e4e4930b27"
+		},
+		"material_429ed64a-4e97-4466-84d3-145a861ef684": {
+			"technique": "technique_429ed64a-4e97-4466-84d3-145a861ef684",
+			"values": {
+				"SceneLight_0_color": [0.7780392, 0.8156863, 0.9913726, 1],
+				"SceneLight_1_color": [0.4282353, 0.4211765, 0.3458824, 1],
+				"ambient_light_color": [0.3921569, 0.3921569, 0.3921569, 1],
+				"Cutoff": 0.067,
+				"MainTex_TexelSize": [0.015625, 0.00390625, 64, 256],
+				"MainTex": "texture_429ed64a-4e97-4466-84d3-145a861ef684_MainTex"				
+			},
+			"name": "material_429ed64a-4e97-4466-84d3-145a861ef684"
+		}
+	},
+	"nodes": {
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_SceneLight_0_-914": {
+			"name": "node_SceneLight_0_-914",
+			"light": "SceneLight_0",
+			"matrix": [0.898794, 0.2191856, -0.3796406, 0, -0.4383712, 0.449397, -0.7783785, 0, -1.490116E-08, 0.8660254, 0.4999999, 0, 9.403324, -6.309347, 11.00984, 1]
+		},
+		"node_SceneLight_1_-920": {
+			"name": "node_SceneLight_1_-920",
+			"light": "SceneLight_1",
+			"matrix": [0.7660444, -0.4924039, -0.4131759, 0, -0.6427876, -0.5868242, -0.4924039, 0, 8.940697E-08, 0.6427876, -0.7660446, 0, 8.855235, -7.418838, 11.33064, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20": {
+			"name": "node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+			"meshes": [
+				"mesh_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0": {
+			"name": "node_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0",
+			"meshes": [
+				"mesh_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		}
+	},
+	"scene": "defaultScene",
+	"scenes": {
+		"defaultScene": {
+			"nodes": [
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_0",
+				"node_SceneLight_0_-914",
+				"node_SceneLight_1_-920",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_1",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_2",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_3",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_4",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_5",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_6",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_7",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_8",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_9",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_10",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_11",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_12",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_13",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_14",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_15",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_16",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_17",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_18",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_19",
+				"node_Wire_4391385a-cf83-4396-9e33-31e4e4930b27_0_20",
+				"node_Marker_429ed64a-4e97-4466-84d3-145a861ef684_0_0"
+			],
+			"extras": {
+				"TB_EnvironmentGuid": "9b89b0a4-c41e-4b78-82a1-22f10a238357",
+				"TB_Environment": "White",
+				"TB_SkyColorA": "0.08627451, 0.02352941, 0.1529412",
+				"TB_SkyColorB": "0.08627451, 0.02352941, 0.1529412",
+				"TB_SkyGradientDirection": "0, 1, 0",
+				"TB_FogColor": "1, 1, 1",
+				"TB_FogDensity": "0",
+				"TB_SkyColorHorizon": "0.08627451, 0.02352941, 0.1529412",
+				"TB_SkyColorZenith": "0.08627451, 0.02352941, 0.1529412"
+			}
+		}
+	}
+}
